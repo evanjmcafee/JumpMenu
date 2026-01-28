@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Search" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #939598;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: #939598;
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="84.15" cy="81.47" fx="84.15" fy="35.58" r="68.94" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#b3e4fa"/>
+      <stop offset=".83" stop-color="#3385c6"/>
+    </radialGradient>
+  </defs>
+  <circle class="cls-3" cx="84.15" cy="81.47" r="68.94"/>
+  <circle class="cls-1" cx="84.15" cy="81.47" r="68.94"/>
+  <rect class="cls-2" x="161.5" y="113.74" width="28.89" height="122.62" transform="translate(-72.25 175.68) rotate(-45)"/>
+</svg>

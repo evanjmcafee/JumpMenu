@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-46157d905c64a5b2a45b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Menu",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Menu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Menu-Debug-ae89e29b1f8a026fb81c.json",
+					"name" : "Menu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Menu_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Menu_autogen-Debug-329420c7432bf5b48817.json",
+					"name" : "Menu_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Menu_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Menu_autogen_timestamp_deps-Debug-230361f5fc7f8b7ede64.json",
+					"name" : "Menu_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug",
+		"source" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Menu/Vector">
+        <file>Menu-Icons-01.svg</file>
+        <file>Menu-Icons-02.svg</file>
+        <file>Menu-Icons-03.svg</file>
+        <file>Menu-Icons-04.svg</file>
+        <file>Menu-Icons-05.svg</file>
+        <file>Menu-Icons-06.svg</file>
+        <file>Menu-Icons-07.svg</file>
+        <file>Menu-Icons-08.svg</file>
+        <file>Menu-Icons-09.svg</file>
+        <file>Person.svg</file>
+        <file>Switch.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Person.svg</file>
+    </qresource>
+</RCC>

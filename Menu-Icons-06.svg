@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Files" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2b59b;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #939598;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-2 {
+        fill: #9b8579;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M80.46,63.39H12.88l3.72-19.26c.18-.95,1.18-1.66,2.35-1.66h54.71c1.14,0,2.12.67,2.34,1.6l4.46,19.32Z"/>
+  <path class="cls-1" d="M243.91,68.32v145.21H12.09V67.53l.8-4.14h68.06c1.17,0,2.2-.64,2.53-1.57l6.22-17.77c.33-.93,1.36-1.57,2.53-1.57h142.86c.92,0,1.73.52,1.94,1.27l6.66,23.02c.15.51.22,1.03.22,1.56Z"/>
+</svg>

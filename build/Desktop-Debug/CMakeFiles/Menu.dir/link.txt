@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/Menu.dir/Menu_autogen/mocs_compilation.cpp.o CMakeFiles/Menu.dir/main.cpp.o CMakeFiles/Menu.dir/mainwindow.cpp.o CMakeFiles/Menu.dir/Menu_autogen/EWIEGA46WW/qrc_Icons.cpp.o -o Menu  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.13 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.13 

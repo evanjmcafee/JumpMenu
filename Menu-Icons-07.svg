@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Apps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2e3192;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #939598;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        fill: #f1f2f2;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="21.37" y="68.41" width="164.77" height="93.05"/>
+  <rect class="cls-1" x="21.37" y="47.32" width="164.77" height="28"/>
+  <rect class="cls-2" x="69.86" y="108.72" width="164.77" height="93.05"/>
+  <rect class="cls-1" x="69.86" y="87.63" width="164.77" height="28"/>
+</svg>

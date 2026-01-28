@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug/Menu_autogen",
+	"CMAKE_BINARY_DIR" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu",
+	"CMAKE_SOURCE_DIR" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug/Menu_autogen/include",
+	"INPUTS" : 
+	[
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Person.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-04.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Person.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-08.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-03.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-07.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-02.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-06.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-01.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-05.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-09.svg",
+		"/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Switch.svg"
+	],
+	"LOCK_FILE" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug/CMakeFiles/Menu_autogen.dir/AutoRcc_Icons_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Icons" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Icons.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/build/Desktop-Debug/CMakeFiles/Menu_autogen.dir/AutoRcc_Icons_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Icons.qrc",
+	"VERBOSITY" : 0
+}
