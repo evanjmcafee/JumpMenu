@@ -162,3 +162,25 @@ void MainWindow::on_Apps_clicked()
     }
 }
 
+
+void MainWindow::on_Switch_pressed()
+{
+    pid_t p;
+    p = fork();
+    if (p == 0){
+        system("bash /etc/userscripts/menu/switchUser.sh");
+
+    }
+}
+
+
+void MainWindow::on_Lock_pressed()
+{
+    pid_t p;
+    p = fork();
+    if (p == 0){
+        system("bash /etc/userscripts/menu/switchUser.sh");
+
+    }
+}
+
