@@ -33,7 +33,7 @@ MainWindow::MainWindow(QWidget *parent)
     } else {
         qDebug() << "could not find username";
     }
-    system("bash /etc/userscripts/menu/window.sh");
+    //system("bash /etc/userscripts/menu/window.sh");
 
     QApplication::setQuitOnLastWindowClosed(true);
 }
@@ -168,7 +168,7 @@ void MainWindow::on_Switch_pressed()
     pid_t p;
     p = fork();
     if (p == 0){
-        system("bash /etc/userscripts/menu/switchUser.sh");
+        system("bash /etc/userscripts/menu/switchuser.sh");
 
     }
 }
@@ -179,7 +179,7 @@ void MainWindow::on_Lock_pressed()
     pid_t p;
     p = fork();
     if (p == 0){
-        system("bash /etc/userscripts/menu/switchUser.sh");
+        system("bash /etc/userscripts/menu/lock.sh");
 
     }
 }

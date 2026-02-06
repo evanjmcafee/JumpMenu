@@ -39,6 +39,10 @@ private slots:
 
     void on_Apps_clicked();
 
+    void on_Lock_pressed();
+
+    void on_Switch_pressed();
+
 private:
     Ui::MainWindow *ui;
 };
