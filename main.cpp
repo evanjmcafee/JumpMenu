@@ -18,6 +18,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     MainWindow w;
+    w.setWindowTitle("EnvisionJumpMenuUnique");
     QApplication::quitOnLastWindowClosed();
     QScreen *screen = QGuiApplication::primaryScreen();
     QRect screenGeometry = screen->geometry();
@@ -31,6 +32,7 @@ int main(int argc, char *argv[])
 
 
     w.setWindowFlags(Qt::FramelessWindowHint);
+
     w.show();
     QObject::connect(&a, &QApplication::focusChanged, [&a](QWidget *old, QWidget *now) {
         if (now == nullptr) { // No widget in our app has focus

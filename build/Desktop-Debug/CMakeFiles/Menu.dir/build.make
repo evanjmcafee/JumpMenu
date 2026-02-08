@@ -86,6 +86,7 @@ Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/
 Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-07.svg
 Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-02.svg
 Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-06.svg
+Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/lock.png
 Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-01.svg
 Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-05.svg
 Menu_autogen/EWIEGA46WW/qrc_Icons.cpp: /mnt/c/Users/3vanm/Desktop/envision/apps/Tint-X/Settings/Menu/Menu/Menu-Icons-09.svg

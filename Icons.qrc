@@ -11,6 +11,7 @@
         <file>Menu-Icons-09.svg</file>
         <file>Person.svg</file>
         <file>Switch.svg</file>
+        <file>lock.png</file>
     </qresource>
     <qresource prefix="/">
         <file>Person.svg</file>
